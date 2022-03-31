@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angelanuez, Ángela
-- 👀 I’m interested in Languages, NPL, vegan food and biking.
-- 🌱 I’m currently learning Python, German, and improving my Portuguese and Logical skills.
+- 👀 I’m interested in Languages, vegan food, nature, video/board games, and biking.
+- 🌱 I’m currently learning Python so I can start a new career path as data scientist, and NPL.
 - 📫 You can reach me at my email: nunezsangela@gmail.com. I always check it! 
 
